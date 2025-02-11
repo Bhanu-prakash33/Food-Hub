@@ -1,14 +1,14 @@
-FoodHub Data Analysis
+# FoodHub Data Analysis
 
-Overview
+### Overview
 
 This project analyzes historical food order data from FoodHub, a food aggregator platform. The goal is to understand customer preferences, restaurant demand, and delivery dynamics to optimize operations and improve customer satisfaction.
 
-Problem Statement
+### Problem Statement
 
 With the increasing number of restaurants in New York, many students and professionals rely on food delivery services. FoodHub provides a platform that connects customers with restaurants, facilitates order processing, assigns delivery personnel, and collects customer ratings. The company aims to analyze its historical data to enhance revenue and optimize operations.
 
-Dataset
+### Dataset
 
 The dataset contains details about food orders, including:
 
@@ -30,7 +30,7 @@ food_preparation_time: Time (in minutes) taken by the restaurant to prepare the 
 
 delivery_time: Time (in minutes) taken by the delivery person to deliver the food.
 
-Tools & Libraries Used
+### Tools & Libraries Used
 
 Python
 
@@ -38,14 +38,14 @@ Pandas (for data manipulation)
 
 Seaborn and Matplotlib (for data visualization)
 
-Installation & Usage
+## Installation & Usage
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/yourusername/FoodHub-Data-Analysis.git
 cd FoodHub-Data-Analysis
 
-Install dependencies:
+### Install dependencies:
 
 pip install pandas seaborn matplotlib
 
@@ -65,7 +65,7 @@ Visualization of key trends (restaurant demand, ratings, delivery times)
 
 Insights for optimizing delivery operations and customer experience
 
-Results
+### Results
 
 Some key findings include:
 
@@ -83,9 +83,9 @@ Optimize restaurant and delivery assignments.
 
 Enhance customer experience through personalized recommendations.
 
-Author
+# Author
 
-[Your Name]
+[Bhanu Prakash]
 
 License
 

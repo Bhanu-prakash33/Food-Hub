@@ -40,11 +40,6 @@ Seaborn and Matplotlib (for data visualization)
 
 ## Installation & Usage
 
-### Clone the repository:
-
-git clone https://github.com/yourusername/FoodHub-Data-Analysis.git
-cd FoodHub-Data-Analysis
-
 ### Install dependencies:
 
 pip install pandas seaborn matplotlib
